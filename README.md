@@ -17,7 +17,6 @@
    
    ![image](https://github.com/user-attachments/assets/6f1f50c2-cf80-45c4-9e28-e16847e9224e)
 
- ![image](https://github.com/user-attachments/assets/304538a5-5c43-4187-af1d-b5b54c09204e)
 
 
 ![image](https://github.com/user-attachments/assets/1f7646c1-1b09-42ae-b920-bc14d7db0a2d)
@@ -34,8 +33,10 @@ Here the binary is downloaded into the Ubuntu server and Runner is also configur
 
  
 
-3.Create .github/workflows/trigger.yaml 
-![image](https://github.com/user-attachments/assets/20d82894-9405-482b-8803-87935fc0f187)
+3.Create .github/workflows/trigger.yaml
+ ![image](https://github.com/user-attachments/assets/304538a5-5c43-4187-af1d-b5b54c09204e)
+
+
 ![image](https://github.com/user-attachments/assets/1be9c09c-93fc-4536-8d14-1541b0d07e8e)
 
  
