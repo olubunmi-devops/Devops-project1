@@ -62,7 +62,9 @@ Here the binary is downloaded into the Ubuntu server and Runner is also configur
  
 
 4.Create Repository Secret for access to Docker hub  
-![image](https://github.com/user-attachments/assets/d06bf182-3e66-4ef8-8b8f-4a1c23299e36)
+
+![image](https://github.com/user-attachments/assets/a6df04b5-e7bb-46ff-909a-b19485de87f5)
+
 
  
 
