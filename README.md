@@ -20,15 +20,15 @@
  ![image](https://github.com/user-attachments/assets/304538a5-5c43-4187-af1d-b5b54c09204e)
 
 
+![image](https://github.com/user-attachments/assets/1f7646c1-1b09-42ae-b920-bc14d7db0a2d)
+
 
 Here the binary is downloaded into the Ubuntu server and Runner is also configured. 
-![image](https://github.com/user-attachments/assets/225561ed-21e1-488b-a95a-d54e6b9d627e)
-![image](https://github.com/user-attachments/assets/ff7e14b1-23ba-4263-9440-01dab762901a)
-![image](https://github.com/user-attachments/assets/42ae307b-6342-4503-ae02-87df59b446eb)
-![image](https://github.com/user-attachments/assets/c3114887-4541-4322-b8c6-dcbf5312ebad)
+![image](https://github.com/user-attachments/assets/33af7b2b-46b6-49e5-a749-f146c03970d1)
+
+![image](https://github.com/user-attachments/assets/bc7bec22-b07f-4336-90ce-172b3f1e4c8c)
 
 
- 
 
  
 
