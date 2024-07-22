@@ -69,17 +69,15 @@ Here the binary is downloaded into the Ubuntu server and Runner is also configur
  
 
 5. Start your Runner using  this command. ./run.sh 
-![image](https://github.com/user-attachments/assets/f19a9c2a-22e7-4c4c-b4cd-0056fb401c9a)
+![image](https://github.com/user-attachments/assets/aa738d27-016a-43f9-9fa4-a9a721c1aa75)
+
 
  
 
  
 
 6.Workflow triggered below. 
-![image](https://github.com/user-attachments/assets/12ec3243-bc9a-4ee6-9cfe-01b1225982c0)
-![image](https://github.com/user-attachments/assets/fbee1e59-9197-4f71-ad6f-af0b33c1bc40)
-![image](https://github.com/user-attachments/assets/19fae682-b36c-4d9c-9118-e08014a3a727)
-
+![image](https://github.com/user-attachments/assets/26a784b4-e3fc-4f8c-bcb2-8e9cf24e1d9f)
 
  
 
