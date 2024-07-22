@@ -37,7 +37,7 @@ Here the binary is downloaded into the Ubuntu server and Runner is also configur
  ![image](https://github.com/user-attachments/assets/304538a5-5c43-4187-af1d-b5b54c09204e)
 
 
-![image](https://github.com/user-attachments/assets/1be9c09c-93fc-4536-8d14-1541b0d07e8e)
+
 
  
 
